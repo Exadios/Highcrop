@@ -1,6 +1,9 @@
 # Highcrop
 Enhancements to Lowcrop outlanding tool.
 
+The main enhancement is to provide an onboard tug app which will integrate
+aero retrieves into Lowcrop.
+
 For some description of the available API see:
 
 https://lowcrop.aero/<competition>/admin/api_links

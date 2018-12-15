@@ -80,12 +80,12 @@
             android:layout_height="wrap_content"
             android:text="180"
             android:textSize="60sp"
-            android:typeface="sans"
             android:textStyle="bold"
+            android:typeface="sans"
             app:layout_constraintBottom_toBottomOf="@+id/leftindicator"
             app:layout_constraintEnd_toEndOf="@+id/distanceindicator"
             app:layout_constraintStart_toStartOf="@+id/distanceindicator"
             app:layout_constraintTop_toTopOf="@+id/leftindicator"
-            app:layout_constraintVertical_bias="0.47" />
+            app:layout_constraintVertical_bias="0.88" />
     </android.support.constraint.ConstraintLayout>
 </android.support.constraint.ConstraintLayout>

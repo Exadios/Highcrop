@@ -85,7 +85,6 @@
             app:layout_constraintBottom_toBottomOf="@+id/leftindicator"
             app:layout_constraintEnd_toEndOf="@+id/distanceindicator"
             app:layout_constraintStart_toStartOf="@+id/distanceindicator"
-            app:layout_constraintTop_toTopOf="@+id/leftindicator"
-            app:layout_constraintVertical_bias="0.88" />
+            app:layout_constraintTop_toTopOf="@+id/leftindicator" />
     </android.support.constraint.ConstraintLayout>
 </android.support.constraint.ConstraintLayout>
